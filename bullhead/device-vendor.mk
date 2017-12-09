@@ -55,4 +55,4 @@ PRODUCT_PACKAGES += \
     libimscamera_jni.so \
     libdmengine.so \
     libdmjavaplugin.so \
-    libstagefright_xmlparser@1.0
+    libstagefright_xmlparser@1.0.so
